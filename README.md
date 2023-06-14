@@ -1,7 +1,5 @@
-# Maintenance_Monitor_Goetterer
-# SLM_Maintenance_Monitor 
-
-       	          
+# Maintenance_Monitor
+          
 
 # Project Description:
 The purpose is to show the current service message.
